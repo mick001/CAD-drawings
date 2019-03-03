@@ -5,6 +5,7 @@ In this repository I store some of the 2D drawings and 3D models.
 For 2D I use mostly LibreCAD and DraftSight while for 3D I use FreeCAD.
 
 ### Some examples
+Below you can find the pictures of some examples of drawings stored in this repository.
 
 #### Supporto (piastra)
 ![image 003](https://user-images.githubusercontent.com/13961654/53694316-5cf97680-3dad-11e9-947c-bde8081c4a91.png)
